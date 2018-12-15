@@ -26,8 +26,6 @@ function createModel(){
         }    
     }
 
-
-
     // Return an object containing the public API.
     return {
 
@@ -104,5 +102,4 @@ function createModel(){
             });
         }
     }
-
 }
